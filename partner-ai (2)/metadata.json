@@ -1,8 +1,0 @@
-{
-  "name": "Partner AI",
-  "description": "Premium Business Intelligence & Proactive AI Advisor for Store Owners.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
