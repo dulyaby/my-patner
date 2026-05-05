@@ -1,0 +1,6 @@
+name = "my-patner"
+pages_build_output_dir = "dist"
+
+[vars]
+# Add public environment variables here
+NODE_VERSION = "22.16.0"
